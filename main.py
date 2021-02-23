@@ -9,7 +9,7 @@ Code for this project takes inspiration from the following tutorials:
 
 from data import load_mnist_data, plot_data_batch
 from utils import images_to_vectors, vectors_to_images
-from generator import GeneratorNet, Generator_Quantum
+from generator import Generator_Quantum
 from discriminator import Discriminator_FCNN, DiscriminatorNet
 
 
